@@ -1,0 +1,872 @@
+<!DOCTYPE html> 
+<!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <!--ADSENSE-->
+<!--     <script data-ad-client="ca-pub-1642640364155791" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <meta name="google-site-verification" content="02wm8dMp79FlxOu-QNCovzR5Sdqrn-DnoaZ7fzDLMpg" /> -->
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Hicham Gardeslen | Portfolio Website | Developer</title>
+	<meta name="description" content="Hicham Gardeslen is a Developer and student at Hogeschool Rotterdam">  
+	<meta name="author" content="Hicham Gardeslen">
+
+    <meta name="keywords" content="Hicham, Gardeslen, Hicham Gardeslen, Rotterdam, developer, web developer, android developer"/>
+    <meta name="subject" content="Hicham Gardeslen Portfolio">
+    <meta name="copyright"content="Hicham Gardeslen">
+    <meta name="language" content="EN">
+    <meta name="robots" content="index, follow" />
+    <meta name="revised" content="friday, januari 22th, 2024, 1:30 am" />
+    <meta name="abstract" content="Hicham Gardeslen">
+    <meta name="topic" content="Hicham Gardeslen portfolio">
+    <meta name="summary" content="This is Hicham Gardeslen's Portfolio Website for practice porposes.">
+    <meta name="Classification" content="Business">
+    <meta name="author" content="Hicham Gardeslen, hi.mokhtari@live.com">
+    <meta name="designer" content="Hicham Gardeslen">
+    <meta name="copyright" content="Hicham Gardeslen">
+    <meta name="reply-to" content="hi.mokhtari@live.com">
+    <meta name="owner" content="Hicham Gardeslen">
+    <meta name="url" content="https://github.com/hichmok93/">
+    <meta name="identifier-URL" content="https://github.com/hichmok93/">
+    <meta name="directory" content="submission">
+    <meta name="category" content="Business | Portfolio">
+    <meta name="coverage" content="Worldwide">
+    <meta name="distribution" content="Global">
+    <meta name="rating" content="General">
+    <meta name="revisit-after" content="7 days">
+    <meta http-equiv="Expires" content="0">
+
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="css/base.css">  
+   <link rel="stylesheet" href="css/main.css">
+   <link rel="stylesheet" href="css/vendor.css">     
+
+   <!-- script
+   ================================================== -->   
+	<script src="js/modernizr.js"></script>
+	<script src="js/pace.min.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<!--     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153937526-1"></script> -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-153937526-1');
+    </script>
+
+   <!-- favicons ================================================== -->
+	<link rel="icon" type="image/png" href="favicon.png">
+
+</head>
+
+<body id="top">
+
+	<!-- header 
+   ================================================== -->
+   <header>   	
+   	<div class="">
+
+   		<div class="bar">
+   			<a class="menu-toggle" href="#"><span>Menu</span></a>
+
+	   		<div class="logo">
+		         <a href="index.html">Hicham Gardeslen</a>
+		      </div>		      
+
+		   	<nav id="main-nav-wrap">
+					<ul class="main-navigation">
+						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
+						<li><a class="smoothscroll"  href="#about" title="">About</a></li>
+						<li><a class="smoothscroll"  href="#resume" title="">Resume</a></li>
+						<li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>					
+						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>	
+					</ul>
+				</nav>    		
+   		</div> <!-- /top-bar --> 
+   		
+   	</div> <!-- /row --> 		
+   </header> <!-- /header -->
+
+	<!-- intro section
+   ================================================== -->
+   <section id="intro">   
+
+   	<div class="intro-overlay"></div>	
+
+   	<div class="intro-content">
+   		<div class="row">
+
+   			<div class="col-twelve">
+
+				   <h5>Dear reader</h5>
+					<h1>I<span style="color: #e70c0c;">'</span>m Hicham Gardeslen<span style="color: #e70c0c;">.</span></h1>
+
+                    <p class="intro-position">
+                        <span>Developer</span>
+                        <span>IT Profesional</span>
+                        <span>Digital Cook</span>
+                    </p>
+
+	   			<a class="button stroke smoothscroll" href="#about" title=""> An Introduction </a>
+
+	   		</div>  
+   			
+   		</div>   		 		
+   	</div> <!-- /intro-content --> 
+
+        <ul class="intro-social">
+            <li><a href="https://www.linkedin.com/in/hicham-gardeslen-91860898/"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://www.instagram.com/hichmoki/?next=%2F"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://github.com/hichmok93"><i class="fa fa-github"></i></a></li>
+            <li><a href="www.youtube.com"><i class="fa fa-youtube"></i></a></li>
+            <li><a href="https://www.codechef.com/users/alisolanki"><i class="fa fa-code"></i></a></li>
+            <li><a href="https:play.google.com/store/"><i class="fa fa-play"></i></a></li>
+	    <li><a href="https://apps.apple.com/gh/developer/ali-solanki/id1556898924"><i class="fa fa-apple"></i></a></li>
+        </ul> <!-- /intro-social -->      	
+
+   </section> <!-- /intro -->
+
+
+   <!-- about section
+   ================================================== -->
+   <section id="about">
+
+   	<div class="row section-intro">
+   		<div class="col-twelve">
+            <!-- YouTube section ================================================== -->
+            #<div style="padding-bottom: 10rem; height: 400px;">
+                <iframe width="100%" height="100%" src="https://youtube.com/shorts/2rIV9ykg0v4" frameborder="0" 
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+   			<h5>About</h5>
+   			<h2>Let me introduce myself.</h2>
+
+   			<div class="intro-info">
+
+   				<img src="images\IMG_8883.JPG" alt="Hicham Gardeslen Picture">
+
+   				<p class="lead">"love for <font color="#cc2500">music</font> And <font color= "#CC2500">people </font>."</p>
+   			</div>   			
+
+   		</div>   		
+   	</div> <!-- /section-intro -->
+
+   	<div class="row about-content">
+
+   		<div class="col-six tab-full">
+
+   			<h3>Profile</h3>
+                <p>A Computer Science and Data Engineering minor. Currently a student at Hogeschool Rotterdam. Applying for an intership to wright my final Thesis.</p>
+
+   			<ul class="info-list">
+   				<li>
+   					<strong>Fullname:</strong>
+   					<span> Hicham Gardeslen</span>
+   				</li>
+   				<li>
+   					<strong>Birth Date:</strong>
+   					<span>September 18th, 1993</span>
+   				</li>
+   				<li>
+   					<strong>Website:</strong>
+   					<span><a href="#">https://github.com/hichmok93/</a></span>
+   				</li>
+                    <li>
+                        <strong>Email:</strong>
+                        <span>hi.mokhtari@live.com</span>
+                    </li>
+
+   			</ul> <!-- /info-list -->
+
+   		</div>
+
+   		<div class="col-six tab-full">
+
+   			<h3>Skills</h3>
+                <p>
+                    <strong>Languages:</strong><br />
+                    <b>English :</b><br /> Read, Write, Speak : <i>Native</i><br />
+                    <b>Dutch :</b><br /> Read, Write, Speak : <i>Native</i><br />
+                </p>
+
+
+				<ul class="skill-bars">
+					<li>
+						<div class="progress" id="azureProgress"><span>70%</span></div>
+						<strong>Azure | Dart</strong>
+					</li>
+					<li>
+						<div class="progress" id="lectureProgress"><span>85%</span></div>
+						<strong>Lecture skills</strong>
+					</li>
+					<li>
+						<div class="progress" id="pythonProgress"><span>60%</span></div>
+						<strong>Python</strong>
+					</li>
+					<li>
+						<div class="progress" id="sqlCssProgress"><span>50%</span></div>
+						<strong>SQL | CSS</strong>
+					</li>
+					<li>
+						<div class="progress" id="joomlaProgress"><span>90%</span></div>
+						<strong>Joomla</strong>
+					</li>
+				</ul> <!-- /skill-bars -->
+			</div>
+		
+			<script>
+				// Voeg hier je JavaScript toe om de interactieve kleuren in te schakelen
+				function updateProgressBar(elementId, percentage) {
+					const progressBar = document.getElementById(elementId);
+					progressBar.style.width = percentage;
+					progressBar.textContent = percentage;
+					// Voeg hier je logica toe om de kleur te bepalen op basis van het percentage
+					if (percentage >= 90) {
+						progressBar.style.backgroundColor = 'green';
+					} else if (percentage >= 70) {
+						progressBar.style.backgroundColor = 'yellow';
+					} else  {
+						progressBar.style.backgroundColor = 'blue';
+					}
+				}
+		
+				// Roep de functie aan met de gewenste elementId en percentage
+				updateProgressBar('azureProgress', '95%');
+				updateProgressBar('lectureProgress', '90%');
+				updateProgressBar('pythonProgress', '85%');
+				updateProgressBar('sqlCssProgress', '75%');
+				updateProgressBar('joomlaProgress', '75%');
+			</script>	
+
+   		</div>
+
+   	</div>
+
+   	<div class="row button-section">
+   		<div class="col-twelve">
+   			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Get in contact</a>
+   			<a href="Hicham_Mokhtari_-_Cover_Letter (3).pdf" title="Download CV (Growth)" class="button button-primary">Download Cover</a>
+   			<a href="Hicham_Mokhtari_-_Student (1).pdf" title="Download CV (Solidity)" class="button button-primary">Download CV</a>
+   		</div>   		
+   	</div>
+
+   </section> <!-- /process-->    
+
+
+   <!-- resume Section
+   ================================================== -->
+	<section id="resume" class="grey-section">
+
+		<div class="row section-intro">
+   		<div class="col-twelve">
+
+   			<h5>Resume</h5>
+            <h2>My Credentials</h2>
+   		</div>   		
+   	</div> <!-- /section-intro--> 
+
+   	<div class="row resume-timeline">
+
+   		<div class="col-twelve resume-header">
+
+   			<h2>Education</h2>
+
+   		</div> <!-- /resume-header -->
+
+   		<div class="col-twelve">
+
+   			<div class="timeline-wrap">
+
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+	   					<i class="fa fa-briefcase"></i>
+	   				</div>
+
+	   				<div class="timeline-header">
+	   					<h3>Bachelor's Degree</h3>
+	   					<p>July 2018 - Present(2024)</p>
+	   				</div>
+
+	   				<div class="timeline-content">
+	   					<h4><a href="https://www.hogeschoolrotterdam.nl/">Hogeschool Rotterdam</a></h4>
+	   					<p>Currently pursuing a Bachlor is science at Rotterdam School Of Applyied Sciences Studying Business IT & Management.                              - KJSCE.</p>
+	   				</div>
+
+	   			</div> <!-- /timeline-block -->
+                
+                
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+	   					<i class="fa fa-briefcase"></i>
+	   				</div>
+
+	   				<div class="timeline-header">
+	   					<h3>MBO Alround Laborant Techniek college Rotterdam </h3>
+	   					<p>2014 - 2018</p>
+	   				</div>
+
+	   				<div class="timeline-content">
+	   					<h4><a href="">Techniek College Rotterdam </a></h4>
+	   					<p>Studied Microbiologie worked in various labs for interns and work related. such as Nutricia, Koppert and Star-SHl .</p>
+	   				</div>
+
+	   			</div> <!-- /timeline-block -->
+
+   			</div> <!-- /timeline-wrap -->   			
+
+   		</div> <!-- /col-twelve -->
+   		
+   	</div> <!-- /resume-timeline -->
+		
+	</section> <!-- /features -->
+
+
+	<!-- Portfolio Section
+   ================================================== -->
+	<section id="portfolio">
+
+		<div class="row section-intro">
+   		<div class="col-twelve">
+
+   			<h5>Portfolio</h5>
+   			<h2>My Projects.</h2>
+
+   			<p class="lead">These Projects I've gotten to work on in the past during my education.</p>
+
+   		</div>   		
+   	</div> <!-- /section-intro--> 
+
+   	<div class="row portfolio-content">
+
+   		<div class="col-twelve">
+
+   			<!-- portfolio-wrapper -->
+	         <div id="folio-wrapper" class="block-1-2 block-mob-full stack">
+		
+		<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images\portfolio\Mendix-Primary-Logo-RGB-Blue-Large.png" alt="Mendix">
+	                  <a href="#modal-08" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Mendix App development </h3>	     					    
+                                    <span class="folio-types">
+                                        Building a cash register system for a shop 
+                                    </span>		     		
+		     				</div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        </div> <!-- /folio-item -->
+             
+		<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images\portfolio\54628b72-3f3b-4dd9-9437-e3d8d201d334.png" alt="Powerbi">
+	                  <a href="#modal-07" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Powerbi Dashboard</h3>	     					    
+                                    <span class="folio-types">
+                                        M365 Development
+                                    </span>		     		
+		     				</div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images\portfolio\Joomla interface.png" alt="Joomla Directory Website">
+	                  <a href="#modal-06" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Joomla Website</h3>	     					    
+                                    <span class="folio-types">
+                                        Website Development
+                                    </span>		     		
+		     				</div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        	</div> <!-- /folio-item -->
+
+	         	<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images\portfolio\MicrosoftAzure-logo.jpg" alt="Azure">
+	                  <a href="#modal-05" class="overlay">	                  	           
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+                                <h3 class="folio-title">Azure</h3>	     					    
+                                    <span class="folio-types">
+                                    Azure Backend Development
+                                </span>
+                            </div>	                      	
+	                     </div>                    
+	                  </a>
+	               </div>	               
+	        		</div> <!-- /folio-item -->
+
+	        		<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/buttonpress.jpg" alt="Button Press">
+	               	<a href="#modal-04" class="overlay">              		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+                                <h3 class="folio-title">Button Press</h3>	     					    
+                                <span class="folio-types">
+                                    Android App Development
+                                </span>		     		
+                            </div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        		</div> <!-- /folio-item -->
+
+	            <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/guestin.JPG"alt="GuestIn">
+	                  <a href="#modal-03" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+                                <h3 class="folio-title">GuestIn</h3>	     					    
+                                <span class="folio-types">
+                                    Website Development
+                                </span>		     		
+                            </div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        	</div> <!-- /folio-item -->
+
+	            <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/snakegame.jpg" alt="snakegame">
+	                  <a href="#modal-02" class="overlay">                  	                 
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Snake Game</h3>	     					    
+                                <span class="folio-types">
+                                    Java Game Development
+                                </span>		     		
+                            </div>  	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        	</div> <!-- /folio-item -->     
+
+	        	<div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images\IMG_8779.JPG" alt="Portfolio">
+	                  <a href="#modal-01" class="overlay">             		                  
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+	                     		<h3 class="folio-title">Portfolio</h3>	     					    
+		     			<span class="folio-types">
+		     				BIM Student
+		     			</span>		     		
+		     		</div> 	                      	
+	                     </div>                    
+	                  </a>
+	               </div>
+	        	</div> <!-- /folio-item -->
+
+	            <!-- modal popups - begin
+	            ============================================================= -->
+		<div id="modal-08" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-guestinme_app.png" alt="GuestInMe App" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Mendix Tools</h4>		      
+					      <p>Mendix Tools made using Flutter and Firebase.</p>
+					      <div class="categories">Flutter App Development</div>			               
+					   </div>
+			         <div class="link-box">
+			            <a href="https://www.mendix.com/">website</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>
+                </div> <!-- /modal-08 -->
+                <div id="modal-07" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here" alt="Joomla web design" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Joomla Directory App</h4>		      
+					      <p>Joomla Directory App made using Flutter and Firebase.</p>
+					      <div class="categories">Flutter App Development</div>			               
+					   </div>
+			         <div class="link-box">
+			            <a href="https://play.google.com/store/apps/details?id=com.showworld.showworldfilmdirectory">App</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>
+                </div> <!-- /modal-07 -->
+
+                <div id="modal-06" class="popup-modal slider mfp-hide">
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-showworld_website.png" alt="Joomla Directory Website" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Show World Website</h4>		      
+					      <p>Joomla Directory Website made using HTML, CSS, JavaScript, PHP.</p>
+					      <div class="categories">Website Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="https://www.joomla.org/">Visit</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>
+                </div> <!-- /modal-06 -->
+
+	            <div id="modal-05" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-hospipro.jpg" alt="HospiPro" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>HospiPro</h4>		      
+					      <p>Android App for Hospital management system. It was built under 24hrs for the KJSCE Hackathon - 2019. </p>
+
+					      <div class="categories">Android App Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="https://github.com/">Github</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				</div>
+			 <!-- /modal-05 -->
+
+		<div id="modal-04" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-buttonpress.jpg" alt="Button Press" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Button Press</h4>		      
+					      <p>Android Application that helps generate Random numbers.</p>
+
+					      <div class="categories">Android App Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="https://github.com/hichmok93/ButtonPress">Github</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+                </div> <!-- /modal-04 -->
+
+                <div id="modal-03" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-guestin.JPG" alt="GuestIn" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>GuestIn</h4>		      
+					      <p><strong>GuestIn</strong>, your one stop solution to get listed in the guestlist
+							of any Club or Bar all over <strong>Mumbai</strong>.</p>
+
+					      <div class="categories">Website Design</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="https://github.com/hichmok93/GuestIn">GitHub</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+                </div> <!-- /modal-03 -->
+
+                <div id="modal-02" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-snakegame.JPG" alt="Snake Game" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Snake Game</h4>		      
+					      <p>Classical Snake game on Java (one of my first Projects).</p>
+
+					      <div class="categories">Java Game Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="https://github.com/hichmok93/Snake-Game">Github</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+                </div> <!-- /modal-02 -->
+
+                <div id="modal-01" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images\IMG_8772.JPG" alt="Portfolio" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Portfolio</h4>		      
+					      <p>My Portfolio Website made using HTML, CSS, JavaScript, PHP.</p>
+
+					      <div class="categories">Website Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="http://alisolanki.gq">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+                </div> <!-- /modal-01 -->
+
+
+				   <!-- modal popups - end
+	            ============================================================= -->
+
+	         </div> <!-- /portfolio-wrapper --> 
+
+   		</div>  <!-- /twelve -->   
+
+   	</div> <!-- /portfolio-content --> 
+		
+	</section> <!-- /portfolio --> 
+
+	
+	
+	<!-- stats Section
+   ================================================== -->
+	<section id="stats" class="count-up">
+
+		<div class="row">
+			<div class="col-twelve">
+
+				<div class="block-1-3 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
+
+					
+					<div class="bgrid stat">
+
+						<div class="icon-part">
+							<i class="icon-light-bulb"></i>
+						</div>
+
+						<h3 class="stat-count">
+							80
+						</h3>
+
+						<h5 class="stat-title">
+							Crazy Ideas
+						</h5>
+
+					</div> <!-- /stat -->
+
+					<div class="bgrid stat">
+
+						<div class="icon-part">
+							<i class="icon-cup"></i>
+						</div>
+
+						<h3 class="stat-count">
+							150
+						</h3>
+
+						<h5 class="stat-title">
+							Coffee Cups
+						</h5>
+
+					</div> <!-- /stat -->
+
+					<div class="bgrid stat">
+
+						<div class="icon-part">
+							<i class="icon-clock"></i>
+						</div>
+
+						<h3 class="stat-count">
+							720
+						</h3>
+
+						<h5 class="stat-title">
+							Hours
+						</h5>
+
+					</div> <!-- /stat -->
+
+				</div> <!-- /stats-list -->
+
+			</div> <!-- /twelve -->
+		</div> <!-- /row -->
+
+	</section> <!-- /stats -->
+
+	
+   <!-- contact
+   ================================================== -->
+	<section id="contact">
+
+		<div class="row section-intro">
+   		<div class="col-twelve">
+
+   			<h5>Contact</h5>
+   			<h2>I'd Love To Hear From You.</h2>
+
+   			<p class="lead">Feel free to Contact Me:</p>
+
+   		</div> 
+   	</div> <!-- /section-intro -->
+
+   	<div class="row contact-form">
+
+   		<div class="col-twelve">
+            
+<!-- form -->
+<form name="form" id="contactForm" method="POST" action="https://formsubmit.co/hi.mokhtari@live.com">
+      			<fieldset>
+                    <div class="form-field">
+ 				<input name="name" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
+                    </div>
+                    <div class="form-field">
+				<input name="_replyto" type="email" id="contactEmail" placeholder="Email" value="" required="">
+	                </div>
+                    <div class="form-field">
+				<input name="_subject" type="text" id="contactSubject" placeholder="Subject" value="">
+	                </div>                       
+                    <div class="form-field">
+	                 	<textarea name="message" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
+	                </div>                      
+                    <div class="form-field">
+                        <button class="submitform" name="submit">Submit</button>
+                        <div id="submit-loader">
+			    <div class="text-loader">Sending...</div>                             
+       				  <div class="s-loader">
+					<div class="bounce1"></div>
+					<div class="bounce2"></div>
+					<div class="bounce3"></div>
+				    </div>
+			</div>
+                    </div>
+
+	</fieldset>
+</form>
+
+            <!-- contact-warning -->
+<div id="message-warning">            	
+            </div> 
+            <!-- contact-success -->
+<div id="message-success">
+               <i class="fa fa-check"></i>Your message was sent, thank you!<br>
+      		</div> 
+
+         </div> <!-- /col-twelve -->
+   		
+   	</div> <!-- /contact-form -->
+
+   	<div class="row contact-info">
+
+   		<div class="col-four tab-full">
+
+   			<div class="icon">
+   				<i class="icon-pin"></i>
+   			</div>
+
+   			<h5>Where to find me</h5>
+
+   			<p>
+            Rotterdam, Zuid-Holland <br>
+            The Netherlands 
+            </p>
+
+   		</div>
+
+   		<div class="col-four tab-full collapse">
+
+   			<div class="icon">
+   				<i class="icon-mail"></i>
+   			</div>
+
+   			<h5>Email Me At</h5>
+
+   			<p>hi.mokhtari@live.com<br>		     
+			</p>
+
+   		</div>
+
+   		<div class="col-four tab-full">
+
+   			<div class="icon">
+   				<i class="icon-phone"></i>
+   			</div>
+
+   			<h5>Call Me At</h5>
+
+			<p>Phone: instagram (<a href="https://t.me/">hichamGardeslen</a>)
+			</p>
+   		</div>
+   		
+   	</div> <!-- /contact-info -->
+		
+	</section> <!-- /contact -->
+
+
+   <!-- footer ================================================== -->
+
+   <footer>
+     	<div class="row">
+
+     		<div class="col-six tab-full pull-right social">
+
+                <ul class="footer-social">
+                    <li><a href="https://www.linkedin.com/in/hicham-gardeslen-91860898/"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/hichmoki/?next=%2F"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://github.com/hichmok93"><i class="fa fa-github"></i></a></li>
+                    <li><a href="www.youtube.com"><i class="fa fa-youtube"></i></a></li>
+                    <li><a href="https://www.codechef.com/users/alisolanki"><i class="fa fa-code"></i></a></li>
+            	    <li><a href="https://play.google.com/store/"><i class="fa fa-play"></i></a></li>
+	    	    <li><a href="https://apps.apple.com/gh/developer/ali-solanki/id1556898924"><i class="fa fa-apple"></i></a></li>
+                </ul> 
+	      		
+	      </div>
+
+      	<div class="col-six tab-full">
+	      	<div class="copyright">
+		        	<span>© Copyright 2024 </span> 
+		        	<span>Design by <a href="https://www.linkedin.com/in/hicham-gardeslen-91860898/">Mohd. Hicham Gardeslen</a></span>	         	
+		         </div>		                  
+	      	</div>
+
+	      	<div id="go-top">
+		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
+		    </div>
+
+      	</div> <!-- /row -->     	
+   </footer>  
+   
+   <div id="preloader"> 
+    	<div id="loader"></div>
+   </div> 
+
+   <!-- Java Script
+   ================================================== --> 
+   <script src="js/jquery-2.1.3.min.js"></script>
+   <script src="js/plugins.js"></script>
+   <script src="js/main.js"></script>
+
+</body>
+
+</html>
